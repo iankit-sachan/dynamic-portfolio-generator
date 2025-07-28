@@ -38,7 +38,7 @@ const PortfolioForm: React.FC<PortfolioFormProps> = ({ editingPortfolio, onBack 
       title: 'Sample Project',
       description: 'A sample project to demonstrate the portfolio functionality',
       technologies: ['React', 'TypeScript', 'Tailwind CSS'],
-      liveUrl: '',
+      liveUrl: 'https://cosmic-bunny-1ee6b5.netlify.app',
       githubUrl: 'https://github.com/iankit-sachan'
     }],
     skills: {
