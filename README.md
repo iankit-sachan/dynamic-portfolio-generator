@@ -2,6 +2,8 @@
 
 A comprehensive React TypeScript application for creating and managing professional portfolios with multiple templates and full customization options.
 
+**Live Demo**: [https://cosmic-bunny-1ee6b5.netlify.app/](https://cosmic-bunny-1ee6b5.netlify.app/)
+
 **GitHub Repository**: [https://github.com/iankit-sachan](https://github.com/iankit-sachan)
 
 ## Features
